@@ -211,7 +211,7 @@ var x=$(".ediTable").ediTable(
                 }
             },
         },
-        addRow:true,
+        add:true,
         sortable:true,
         keyboard:true
         // requiredAction:function($inputs){
